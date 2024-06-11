@@ -1,67 +1,71 @@
 #snapchat:link, #snapchat:visited {
-  background-color: #fffc00;
-  color: #7D7D7D;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+  	background-color: #fffc00;
+ 	color: rgba(125,125,125,1.00);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
 }
 
 #snapchat:hover, #snapchat:active {
-  background-color: #FFFC50;
+  	background-color: #FFFC50;
+	color: white;
 }
 
 #discord:link, #discord:visited {
-  background-color: #4c57d2;
-  color: #7D7D7D;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+	background-color: #4c57d2;
+  	color: rgba(125,125,125,1.00);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
 }
 
 #discord:hover, #discord:active {
-  background-color: #5865f2;
+  	background-color: #5865f2;
+  	color: white;
 }
 
 #instagram:link, #instagram:visited {
-  background-color: #dfd193;
-  color: #7D7D7D;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+	background-color: #dfd193;
+  	color: rgba(125,125,125,1.00);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
 }
 
 #instagram:hover, #instagram:active {
-  background-color: #f5ff7b;
+	background-color: #f5ff7b;
+	color: white;
 }
 
 #steam:link, #steam:visited {
-  background-color: #1b2838;
-  color: #7D7D7D;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+	background-color: #1b2838;
+  	color: rgba(125,125,125,1.00);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
 }
 
 #steam:hover, #steam:active {
-  background-color: #2a475e;
+	background-color: #2a475e;
+	color: white;
 }
 
 a {
-  font-family: Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
-  overflow: hidden;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	min-height: 100vh;
+  	background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
+  	overflow: hidden;
 }
 
 
